@@ -1,5 +1,6 @@
 {
   "packageManager": "yarn@4.5.0",
+  "lockfileCheck": false，
   "private": true,
   "scripts": {
     "start": "roadhog server",
